@@ -15,6 +15,7 @@
 		6262DE7522A89FC100E21BC1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6262DE7422A89FC100E21BC1 /* main.m */; };
 		6262DE7F22A89FC100E21BC1 /* Entering_A_HouseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6262DE7E22A89FC100E21BC1 /* Entering_A_HouseTests.m */; };
 		6262DE8A22A89FC100E21BC1 /* Entering_A_HouseUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6262DE8922A89FC100E21BC1 /* Entering_A_HouseUITests.m */; };
+		6262DE9C22A8FCAD00E21BC1 /* CustomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6262DE9A22A8FCAD00E21BC1 /* CustomViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		6262DE8522A89FC100E21BC1 /* Entering-A-HouseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Entering-A-HouseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6262DE8922A89FC100E21BC1 /* Entering_A_HouseUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Entering_A_HouseUITests.m; sourceTree = "<group>"; };
 		6262DE8B22A89FC100E21BC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6262DE9922A8FCAD00E21BC1 /* CustomViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomViewController.h; sourceTree = "<group>"; };
+		6262DE9A22A8FCAD00E21BC1 /* CustomViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				6262DE6822A89FBF00E21BC1 /* ViewController.h */,
 				6262DE6922A89FBF00E21BC1 /* ViewController.m */,
 				6262DE6B22A89FBF00E21BC1 /* Main.storyboard */,
+				6262DE9922A8FCAD00E21BC1 /* CustomViewController.h */,
+				6262DE9A22A8FCAD00E21BC1 /* CustomViewController.m */,
 				6262DE6E22A89FC100E21BC1 /* Assets.xcassets */,
 				6262DE7022A89FC100E21BC1 /* LaunchScreen.storyboard */,
 				6262DE7322A89FC100E21BC1 /* Info.plist */,
@@ -265,6 +270,7 @@
 				6262DE6A22A89FBF00E21BC1 /* ViewController.m in Sources */,
 				6262DE7522A89FC100E21BC1 /* main.m in Sources */,
 				6262DE6722A89FBF00E21BC1 /* AppDelegate.m in Sources */,
+				6262DE9C22A8FCAD00E21BC1 /* CustomViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
